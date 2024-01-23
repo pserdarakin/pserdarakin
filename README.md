@@ -23,5 +23,5 @@ I'm a passionate Software Developer based in London, United Kingdom, dedicated t
 
 ## 📫 Contact Me
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/pserdarakin/).
 
