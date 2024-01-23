@@ -4,22 +4,22 @@ I'm a passionate Software Developer based in London, United Kingdom, dedicated t
 
 ## 👨‍💻 My Interests & Specialties
 
-Backend Development: Proficient in Python and Flask, fascinated by algorithms and real-life problem solving.
-Machine Learning: Experienced in creating practical solutions like my pothole detection and classification app.
-Agile Methodologies: Practiced in Agile and Scrum, ensuring efficient project management and teamwork.
+- Backend Development: Proficient in Python and Flask, fascinated by algorithms and real-life problem solving.
+- Machine Learning: Experienced in creating practical solutions like my pothole detection and classification app.
+- Agile Methodologies: Practiced in Agile and Scrum, ensuring efficient project management and teamwork.
 
 ## 🔧 Technical Skills
 
-Languages: Python, C, JavaScript, Dart, HTML/CSS.
-Frameworks & Libraries: Flask, TensorFlow, Bootstrap, NumPy, OpenCV.
-Tools & Platforms: Flutter, SQLite, Jupyter Notebook, UMLet.
+- Languages: Python, C, JavaScript, Dart, HTML/CSS.
+- Frameworks & Libraries: Flask, TensorFlow, Bootstrap, NumPy, OpenCV.
+- Tools & Platforms: Flutter, SQLite, Jupyter Notebook, UMLet.
 
 ## 💡 Interesting Facts About Me
 
-📚 Continuously learning: Whether it's coding on the bus or reading tech books, I'm always enhancing my skills.
-♟️ Chess enthusiast: With a 1400 rating on chess.com, I enjoy sharpening my strategic thinking.
-🌍 Multilingual: Fluent in English, German, Turkish, and Kurdish.
-🎓 Educated in both Mechanical Engineering and Computer Science.
+- 📚 Continuously learning: Whether it's coding on the bus or reading tech books, I'm always enhancing my skills.
+- ♟️ Chess enthusiast: With a 1400 rating on chess.com, I enjoy sharpening my strategic thinking.
+- 🌍 Multilingual: Fluent in English, German, Turkish, and Kurdish.
+- 🎓 Educated in both Mechanical Engineering and Computer Science.
 
 ## 📫 Contact Me
 
