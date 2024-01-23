@@ -10,9 +10,9 @@ I'm a passionate Software Developer based in London, United Kingdom, dedicated t
 
 ## 🔧 Technical Skills
 
-- Languages: Python, C, JavaScript, Dart, HTML/CSS.
-- Frameworks & Libraries: Flask, TensorFlow, Bootstrap, NumPy, OpenCV.
-- Tools & Platforms: Flutter, SQLite, Jupyter Notebook, UMLet.
+- **Languages:** `Python` `C` `JavaScript` `Dart` `HTML/CSS`
+- **Frameworks & Libraries:** `Flask` `TensorFlow` `Bootstrap` `NumPy` `OpenCV`
+- **Tools & Platforms:** `Flutter` `SQLite` `Jupyter` `Notebook` `UMLet`
 
 ## 💡 Interesting Facts About Me
 
