@@ -18,7 +18,7 @@ I'm a passionate Software Developer based in London, United Kingdom, dedicated t
 
 - 📚 Continuously learning: Whether it's coding on the bus or reading tech books, I'm always enhancing my skills.
 - ♟️ Chess enthusiast: With a 1400 rating on chess.com, I enjoy sharpening my strategic thinking.
-- 🌍 Multilingual: Fluent in English, Turkish, and Kurdish, in process with German.
+- 🌍 Multilingual: Fluent in English, Turkish,and in process with German.
 - 🎓 Educated in both Computer Science and Mechanical Engineering.
 
 ## 📫 Contact Me
