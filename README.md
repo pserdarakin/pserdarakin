@@ -4,7 +4,7 @@ I'm a passionate Software Developer based in London, United Kingdom, dedicated t
 
 ## 👨‍💻 My Interests & Specialties
 
-- Backend Development: Proficient in Python and Flask, fascinated by algorithms and real-life problem solving.
+- Full Stack Web Development: Proficient in JavaScript with NodeJS, Python with Flask, and HTML/CSS, fascinated by algorithms and real-life problem solving.
 - Machine Learning: Experienced in creating practical solutions like my pothole detection and classification app.
 - Agile Methodologies: Practiced in Agile and Scrum, ensuring efficient project management and teamwork.
 
