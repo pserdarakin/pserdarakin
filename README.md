@@ -1,18 +1,18 @@
 ### Hey, I'm Serdar 👋
 
-I'm a passionate Software Developer based in London, United Kingdom, dedicated to crafting impactful software solutions. With a background from MSc in Computer Science and BSc in Mechanical Engineering, I bring a unique perspective to problem-solving in tech.
+I’m a software developer based in London, passionate about building things that make an impact. I enjoy working across the stack, from backend development with Node.js and Flask to frontend with React. Beyond web development, I like experimenting with machine learning and finding creative solutions to real-world problems. Always learning, always coding!
 
 ## 👨‍💻 My Interests & Specialties
 
-- Full Stack Web Development: Proficient in JavaScript with NodeJS, Python with Flask, and HTML/CSS, fascinated by algorithms and real-life problem solving.
-- Machine Learning: Experienced in creating practical solutions like my pothole detection and classification app.
+- Full Stack Web Development: Proficient in JavaScript with NodeJS and React, Python with Flask, and HTML/CSS, fascinated by algorithms and real-life problem solving.
+- Machine Learning: Experienced in creating practical solutions like my Pothole Detection and Classification App.
 - Agile Methodologies: Practiced in Agile and Scrum, ensuring efficient project management and teamwork.
 
 ## 🔧 Technical Skills
 
-- **Languages:** `Python` `C` `JavaScript` `Dart` `HTML/CSS` 
-- **Frameworks & Libraries:** `ReactJS` `Flask` `NodeJS` `TensorFlow` `Bootstrap` `NumPy` `OpenCV`
-- **Tools & Platforms:** `Flutter` `SQLite` `Jupyter` `Notebook` `UMLet`
+- **Languages:** `Python` `JavaScript` `HTML/CSS` `C` `Dart` 
+- **Frameworks & Libraries:** `ReactJS` `NodeJS` `ExpressJS` `Bootstrap` `Flask` `TensorFlow` `NumPy` `OpenCV`
+- **Tools & Platforms:** `PostMan` `SQLite` `MySQL` `Flutter` `Jupyter` `Notebook` `UMLet` 
 
 ## 💡 Interesting Facts About Me
 
