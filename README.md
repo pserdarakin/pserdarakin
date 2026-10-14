@@ -33,7 +33,6 @@ Currently building mobile and web products, and looking for a full stack or soft
 
 <img src="assets/awa/icon.jpg" width="72" align="right" alt="Awa app icon" />
 
-### Awa Kurmanji
 **Language learning app for iOS and Android**
 
 Native mobile app grown to **3,000+ registered users** organically with no marketing spend.
